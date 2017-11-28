@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="ActionBarSpinner"
+        android:id="@+id/pointOfViewSpinner"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.Spinner"
+        />
+    <item android:title="ActionBarSpinner"
+        android:id="@+id/spotspinner"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.Spinner"
+        />
+    <item android:title="ActionBarSpinner"
+        android:id="@+id/mapTypeSpinner"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.Spinner"
+        />
+</menu>
+    <!--android.widget套件名稱.Spinner類別名稱-->
+
